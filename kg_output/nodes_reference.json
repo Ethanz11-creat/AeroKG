@@ -1,0 +1,1433 @@
+[
+  {
+    "id": "ref_8792898382",
+    "ref_type": "annex",
+    "ref_text": "本规则所用术语的含义在本规则附件一《定义》中规定",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00002_chunk_00003_chunk_00004_..._6",
+    "evidence_text": "本规则所用术语的含义在本规则附件一《定义》中规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0591159637",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空电信人员执照管理规则》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00010_chunk_00011_chunk_00012_..._8",
+    "evidence_text": "航空电信人员执照的申请、颁发、管理和监督，按照《民用航空电信人员执照管理规则》执行。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3857301129",
+    "ref_type": "regulation",
+    "ref_text": "《中国民用航空无线电管理规定》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00036",
+    "evidence_text": "无线电通信导航监视台（站）无线电频率、呼号的指配和使用应当遵守《中国民用航空无线电管理规定》及其他有关规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0876651852",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空空中交通管理规则》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00067",
+    "evidence_text": "《民用航空空中交通管理规则》",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6860247463",
+    "ref_type": "article",
+    "ref_text": "本规则第一百二十八条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00067",
+    "evidence_text": "本规则第一百二十八条",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7775535457",
+    "ref_type": "regulation",
+    "ref_text": "本规则第八条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00149",
+    "evidence_text": "违反本规则第八条规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2581585541",
+    "ref_type": "regulation",
+    "ref_text": "本规则第二十六条规定",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00153",
+    "evidence_text": "违反本规则第二十六条规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3306552424",
+    "ref_type": "regulation",
+    "ref_text": "本规则第一百四十八条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00162",
+    "evidence_text": "违反本规则第一百四十八条的规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_8338013633",
+    "ref_type": "annex",
+    "ref_text": "附件二",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00201",
+    "evidence_text": "（见附件二）",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7268722812",
+    "ref_type": "annex",
+    "ref_text": "附件三",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00201",
+    "evidence_text": "（见附件三）",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9354359338",
+    "ref_type": "annex",
+    "ref_text": "附件四",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00201",
+    "evidence_text": "（见附件四）",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_5513677663",
+    "ref_type": "annex",
+    "ref_text": "附件五",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00201",
+    "evidence_text": "（见附件五）",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7515451918",
+    "ref_type": "law",
+    "ref_text": "《中华人民共和国民用航空法》《中华人民共和国气象法》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00214_chunk_00215_chunk_00216_..._5",
+    "evidence_text": "根据《中华人民共和国民用航空法》《中华人民共和国气象法》，制定本规则。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_5431755523",
+    "ref_type": "annex",
+    "ref_text": "本规则所用术语的含义在本规则附件一《定义》中规定",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00220_chunk_00221_chunk_00222_..._8",
+    "evidence_text": "本规则所用术语的含义在本规则附件一《定义》中规定。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6735224268",
+    "ref_type": "regulation",
+    "ref_text": "《民用机场使用许可规定》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00228",
+    "evidence_text": "民用机场设置气象台或气象站的，应当按照《民用机场使用许可规定》的要求取得民用机场使用许可证后方可运行",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1345600600",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空气象人员执照管理规则》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00250",
+    "evidence_text": "应当按照《民用航空气象人员执照管理规则》的要求",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3907671050",
+    "ref_type": "article",
+    "ref_text": "第十二条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00433_chunk_00434",
+    "evidence_text": "民用航空机场未按第十二条规定设置气象服务机构的",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0732417526",
+    "ref_type": "article",
+    "ref_text": "第一百四十一条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00441",
+    "evidence_text": "违反第一百四十一条规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_4364143927",
+    "ref_type": "regulation",
+    "ref_text": "《外国公共航空运输承运人运行合格审定规则》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00448",
+    "evidence_text": "按照《外国公共航空运输承运人运行合格审定规则》完成运行审定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1630125546",
+    "ref_type": "regulation",
+    "ref_text": "本细则第九条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00454",
+    "evidence_text": "除提交本细则第九条规定的文件外",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7242917974",
+    "ref_type": "regulation",
+    "ref_text": "《中国民用航空运输危险品管理规定》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00462",
+    "evidence_text": "应当按照《中国民用航空运输危险品管理规定》向民航总局提出申请",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2364246475",
+    "ref_type": "article",
+    "ref_text": "第九条、第十条所述文件",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00463",
+    "evidence_text": "除提交第九条、第十条所述文件外",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1316107870",
+    "ref_type": "annex",
+    "ref_text": "本办法附件一《定义》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00480_chunk_00481_chunk_00482_..._5",
+    "evidence_text": "本办法使用的术语的含义，在本办法附件一《定义》中规定。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6540066167",
+    "ref_type": "regulation",
+    "ref_text": "《国际民用航空公约》及其附件和文件的有关标准和建议措施",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00500_chunk_00501_chunk_00502",
+    "evidence_text": "本办法以及有关规定未涉及的技术标准，可以参照《国际民用航空公约》及其附件和文件的有关标准和建议措施执行。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_4158468138",
+    "ref_type": "annex",
+    "ref_text": "本办法附件四《管制扇区划设指导材料》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00528_chunk_00529",
+    "evidence_text": "划设管制扇区参照本办法附件四《管制扇区划设指导材料》。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7988184859",
+    "ref_type": "annex",
+    "ref_text": "本办法附件三《导航容差和缓冲区》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00549",
+    "evidence_text": "评估航路和航线的最低飞行高度时，航路和航线主区、副区内的最低超障余度应当按照本办法附件三《导航容差和缓冲区》确定。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6406179498",
+    "ref_type": "annex",
+    "ref_text": "本办法附件六《航路和航线代号的识别规范》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00558",
+    "evidence_text": "包括进离场航线在内的航路和航线的代号按照本办法附件六《航路和航线代号的识别规范》指配。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_4498588716",
+    "ref_type": "annex",
+    "ref_text": "本办法附件七《空中禁区、限制区和危险区代号的识别规范》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00571",
+    "evidence_text": "空中禁区、空中限制区和空中危险区的代号按照本办法附件七《空中禁区、限制区和危险区代号的识别规范》指配",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_5036277972",
+    "ref_type": "annex",
+    "ref_text": "航行数据质量要求",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00576_chunk_00577_chunk_00578",
+    "evidence_text": "空域数据的质量要求在本办法附件八《航行数据质量要求》中规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_8354179661",
+    "ref_type": "regulation",
+    "ref_text": "本办法第十条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00593",
+    "evidence_text": "符合本办法第十条的规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9752683216",
+    "ref_type": "article",
+    "ref_text": "本办法第十条第二款",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00595",
+    "evidence_text": "本办法第十条第二款",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2132016857",
+    "ref_type": "article",
+    "ref_text": "本办法第十二条和第十三条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00598",
+    "evidence_text": "本办法第十二条和第十三条规定的方式和内容",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1266047441",
+    "ref_type": "regulation",
+    "ref_text": "本办法第十六条和第十七条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00602",
+    "evidence_text": "除本办法第十六条和第十七条规定的情形外",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_8249879425",
+    "ref_type": "regulation",
+    "ref_text": "本办法第十六条第二款",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00602",
+    "evidence_text": "申请应当符合本办法第十六条第二款规定的内容",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9051962931",
+    "ref_type": "article",
+    "ref_text": "本办法第十九条第二款",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00604",
+    "evidence_text": "申请的内容应当符合本办法第十九条第二款的规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1889673119",
+    "ref_type": "article",
+    "ref_text": "本办法第二十三条和第二十四条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00605_chunk_00606",
+    "evidence_text": "除本办法第二十三条和第二十四条规定的情形外",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1247954590",
+    "ref_type": "regulation",
+    "ref_text": "本办法第九条和第十六条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00607",
+    "evidence_text": "外国航空营运人按照本办法第九条和第十六条规定与经营许可一并提出的预先飞行计划申请",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2128432616",
+    "ref_type": "regulation",
+    "ref_text": "本办法第九条和第十六条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00607",
+    "evidence_text": "港澳台地区航空营运人按照本办法第九条和第十六条规定与经营许可一并提出的预先飞行计划申请",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0271810369",
+    "ref_type": "regulation",
+    "ref_text": "本办法第十一条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00612",
+    "evidence_text": "对于本办法第十一条规定的在航班换季前定期航班预先飞行计划申请",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0167123112",
+    "ref_type": "regulation",
+    "ref_text": "本办法第十一条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00612",
+    "evidence_text": "对于本办法第十一条规定的在航季运行期间定期航班预先飞行计划申请",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9162412987",
+    "ref_type": "regulation",
+    "ref_text": "本办法第十二条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00613",
+    "evidence_text": "本办法第十二条",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_8414380477",
+    "ref_type": "regulation",
+    "ref_text": "本规定第六十三条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00689_chunk_00690_chunk_00691",
+    "evidence_text": "按照本规定第六十三条处理",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0357913898",
+    "ref_type": "law",
+    "ref_text": "《中华人民共和国无线电管理条例》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00699_chunk_00700",
+    "evidence_text": "导航台（站）的电磁环境应当按照《中华人民共和国无线电管理条例》《民用机场管理条例》的相关规定，依法进行保护。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2918937886",
+    "ref_type": "regulation",
+    "ref_text": "《民用机场管理条例》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00699_chunk_00700",
+    "evidence_text": "导航台（站）的电磁环境应当按照《中华人民共和国无线电管理条例》《民用机场管理条例》的相关规定，依法进行保护。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1658830191",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空空中交通管理运行单位安全管理规则》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00708",
+    "evidence_text": "通信导航监视运行保障单位应当按照《民用航空空中交通管理运行单位安全管理规则》建立安全评估机制",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_8486192053",
+    "ref_type": "law",
+    "ref_text": "《中华人民共和国民用航空法》《中华人民共和国飞行基本规则》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00744_chunk_00745_chunk_00747_..._4",
+    "evidence_text": "第一条为了规范民用航空通信导航监视设备飞行校验工作，根据《中华人民共和国民用航空法》《中华人民共和国飞行基本规则》等法律、行政法规，制定本规则。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1046986873",
+    "ref_type": "article",
+    "ref_text": "本规则第三十四条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00781",
+    "evidence_text": "本规则第三十四条",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7169831809",
+    "ref_type": "regulation",
+    "ref_text": "本规则第二十一条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00807",
+    "evidence_text": "违反本规则第二十一条规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3135349916",
+    "ref_type": "regulation",
+    "ref_text": "本规则第二十二条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00808",
+    "evidence_text": "违反本规则第二十二条规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1872778502",
+    "ref_type": "law",
+    "ref_text": "《中华人民共和国民用航空法》第三条、第八十四条和第八十七条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00822_chunk_00824",
+    "evidence_text": "第一条为保障飞行安全，加强对民用航空空中交通通信导航监视设备的管理，根据《中华人民共和国民用航空法》第三条、第八十四条和第八十七条，制定本办法。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1963486438",
+    "ref_type": "regulation",
+    "ref_text": "本办法第六条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00842",
+    "evidence_text": "按照本办法第六条的规定完成复审",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_4085586841",
+    "ref_type": "regulation",
+    "ref_text": "本办法第八条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00843",
+    "evidence_text": "民航总局空管局在收到设备生产厂家或者其授权的代理机构申请之日起6个月内按照本办法第八条的规定完成相应的审查或者测试",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7565654413",
+    "ref_type": "regulation",
+    "ref_text": "本办法第五条规定",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00844",
+    "evidence_text": "违反本办法第五条规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0078230781",
+    "ref_type": "regulation",
+    "ref_text": "国际民航组织（ICAO）《空中航行服务程序－航空器运行》（Doc 8168）",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00857",
+    "evidence_text": "国际民航组织（ICAO）《空中航行服务程序－航空器运行》（Doc 8168）",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_5197648448",
+    "ref_type": "article",
+    "ref_text": "本规定第十六条、第十七条和第十八条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00868",
+    "evidence_text": "飞行程序和运行最低标准的修改或者优化，可以根据具体情况参照本规定第十六条、第十七条和第十八条的要求进行。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0230182833",
+    "ref_type": "article",
+    "ref_text": "第二十七条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00871",
+    "evidence_text": "并按照第二十七条进行机场试飞",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9079589282",
+    "ref_type": "article",
+    "ref_text": "第二十八条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00871",
+    "evidence_text": "校验结果及相应工作安排按照第二十八条执行",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3445364848",
+    "ref_type": "article",
+    "ref_text": "第二十条（一）、（二）",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00879",
+    "evidence_text": "本单位第二十条（一）、（二）有关内容",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0689857513",
+    "ref_type": "annex",
+    "ref_text": "本规定附件2《非侵入区和正常运行区的划设方法》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00911_chunk_00913_chunk_00914_..._6",
+    "evidence_text": "第二十条独立平行仪表进近模式所要求的非侵入区和正常运行区的划设方法，在本规定附件2《非侵入区和正常运行区的划设方法》中规定。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_5376655436",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空空中交通管理规则》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00911_chunk_00913_chunk_00914_..._6",
+    "evidence_text": "第二十三条实施平行跑道同时仪表运行时，管制员应当按照《民用航空空中交通管理规则》的规定，为航空器配备尾流间隔。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6197284709",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空空中交通管理规则》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00922_chunk_00923",
+    "evidence_text": "航空器之间存在尾流影响的，应当符合《民用航空空中交通管理规则》中规定的尾流间隔要求。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9155196044",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空空中交通管理规则》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00933",
+    "evidence_text": "应当符合《民用航空空中交通管理规则》中规定的尾流间隔",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7351697610",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空通信导航监视工作规则》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00937",
+    "evidence_text": "有关导航设施的运行符合《民用航空通信导航监视工作规则》中的规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_8270612954",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空通信导航监视工作规则》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00937",
+    "evidence_text": "有关通信、监视设施的运行符合《民用航空通信导航监视工作规则》中的规定和本规定的有关要求",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2588987266",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空情报工作规则》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00938",
+    "evidence_text": "《民用航空情报工作规则》",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0610408877",
+    "ref_type": "annex",
+    "ref_text": "附件3《平行跑道同时仪表运行航空器驾驶员须知要点》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00940",
+    "evidence_text": "根据本规定附件3《平行跑道同时仪表运行航空器驾驶员须知要点》",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7639390911",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空情报工作规则》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00940",
+    "evidence_text": "《航空器驾驶员须知》的发布程序应当按照《民用航空情报工作规则》的规定处理",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1969612353",
+    "ref_type": "regulation",
+    "ref_text": "国际无线电规则、国际民用航空组织、航空移动业务频率分配表和国家无线管理委员会发布的《无线电频率分配表》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_00983_chunk_00984_chunk_00985_..._4",
+    "evidence_text": "航空固定业务和航空移动业务高频无线电台的工作频率，由民航局无线电管理委员会按照国际无线电规则、国际民用航空组织、航空移动业务频率分配表和国家无线管理委员会发布的《无线电频率分配表》指配",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_4108906776",
+    "ref_type": "regulation",
+    "ref_text": "国际无线电规则和国际民用航空组织航空移动业务甚高频率分配表",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00987",
+    "evidence_text": "由民航局无线电管理委员会与有关部门协调按照国际无线电规则和国际民用航空组织航空移动业务甚高频率分配表",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3893060670",
+    "ref_type": "regulation",
+    "ref_text": "国家无线电管理委员会《无线电频率表》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00987",
+    "evidence_text": "以及国家无线电管理委员会《无线电频率表》指配",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9157429587",
+    "ref_type": "regulation",
+    "ref_text": "国际无线电规则及国家无线电管理委员会发布的《无线电频率表》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_00989",
+    "evidence_text": "由民航局无线电管理委员会按国际无线电规则及国家无线电管理委员会发布的《无线电频率表》指配",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0898074190",
+    "ref_type": "law",
+    "ref_text": "《中华人民共和国民用航空法》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01005_chunk_01007",
+    "evidence_text": "根据《中华人民共和国民用航空法》，制定本规则。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6813879561",
+    "ref_type": "annex",
+    "ref_text": "本规则附件《术语解释》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01008",
+    "evidence_text": "本规则中所用术语的含义在本规则附件《术语解释》中规定。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_4461345661",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空器驾驶员合格审定规则》（以下称为 CCAR-61 部）",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01014",
+    "evidence_text": "《民用航空器驾驶员合格审定规则》（以下称为 CCAR-61 部）",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2037228048",
+    "ref_type": "article",
+    "ref_text": "CCAR-61 部第 61.120 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01014",
+    "evidence_text": "除 CCAR-61 部第 61.120 条规定的情形外",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7644325942",
+    "ref_type": "regulation",
+    "ref_text": "《国际海上防撞规则》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01025",
+    "evidence_text": "装有《国际海上防撞规则》所规定的声音信号设备",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_4286244876",
+    "ref_type": "regulation",
+    "ref_text": "《航空器型号和适航合格审定噪声规定》（以下称为 CCAR-36 部）",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01027",
+    "evidence_text": "在《航空器型号和适航合格审定噪声规定》（以下称为 CCAR-36 部）中相应的噪声审定标准所规定的重量限制内",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2010010239",
+    "ref_type": "regulation",
+    "ref_text": "CCAR-21 部",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01028",
+    "evidence_text": "要求携带按照 CCAR-21 部批准或者认可的飞机或者直升机飞行手册的航空器",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3242978149",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 91.335 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01044",
+    "evidence_text": "除经空中交通管制同意外，在一般国际运输机场空域内运行的航空器，必须遵守本条和本规则第 91.335 条的规定。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0813209746",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 91.335 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01045",
+    "evidence_text": "除经空中交通管制同意外，在特殊繁忙运输机场空域内运行的航空器，应当遵守本规则第 91.335 条和本条规定。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7695081327",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 91.207 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01045",
+    "evidence_text": "在特殊繁忙运输机场空域运行的航空器必须满足本规则第 91.207 条关于应答机和自动高度报告设备的相关要求。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1220483619",
+    "ref_type": "article",
+    "ref_text": "本规则第 91.369 条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01053",
+    "evidence_text": "本规则第 91.369 条",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_5587846924",
+    "ref_type": "regulation",
+    "ref_text": "CCAR-121部规章",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01068",
+    "evidence_text": "根据CCAR-121部规章颁发的运行合格证持有人所实施的运行",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2447271581",
+    "ref_type": "regulation",
+    "ref_text": "CCAR-121部规章",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01069",
+    "evidence_text": "本条(a)款和(b)款不适用于根据CCAR-121部规章颁发的运行合格证持有人所实施的运行",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3368529261",
+    "ref_type": "regulation",
+    "ref_text": "CCAR-121 部规章",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01070",
+    "evidence_text": "根据 CCAR-121 部规章颁发的运行合格证持有人所实施的运行",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3225971346",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 91.407 条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01076",
+    "evidence_text": "按本规则第 91.407 条规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3380269131",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 91.515 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01085",
+    "evidence_text": "或者按照本规则第 91.515 条规定存放",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6285655967",
+    "ref_type": "regulation",
+    "ref_text": "《运输类飞机适航标准》（以下称为 CCAR-25 部）",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01085",
+    "evidence_text": "在《运输类飞机适航标准》（以下称为 CCAR-25 部）相关条款规定的极限惯性力或者侧向力作用下",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3086557382",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空器飞行机械员合格审定规则》（CCAR-63 部）",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01088",
+    "evidence_text": "《民用航空器飞行机械员合格审定规则》（CCAR-63 部）相关条款要求的技术检查并在飞行机械员执照记录栏中获得签注",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1583288341",
+    "ref_type": "regulation",
+    "ref_text": "CCAR-61 部",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01093",
+    "evidence_text": "至少持有按照 CCAR-61 部颁发的商用驾驶员执照",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_4887090986",
+    "ref_type": "regulation",
+    "ref_text": "CCAR-121 部",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01098",
+    "evidence_text": "按照 CCAR-121 部、CCAR-135 部实施运行的航空器",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7582820479",
+    "ref_type": "regulation",
+    "ref_text": "CCAR-135 部",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01098",
+    "evidence_text": "按照 CCAR-121 部、CCAR-135 部实施运行的航空器",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7649794002",
+    "ref_type": "article",
+    "ref_text": "本规则第 91.7 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01109",
+    "evidence_text": "本规则第 91.7 条",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7820260106",
+    "ref_type": "regulation",
+    "ref_text": "CCAR-121部规章",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01112",
+    "evidence_text": "根据CCAR-121部规章颁发的运行合格证持有人所实施的运行",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_4318372315",
+    "ref_type": "article",
+    "ref_text": "本规则第 91.1003 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01138",
+    "evidence_text": "批准其按照偏离证书中所列的条件偏离本规则第 91.1003 条中所列任一条款的规定。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9575065009",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 91.111 条(a)款",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01142",
+    "evidence_text": "违反本规则第 91.111 条(a)款规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_5934004679",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 91.111 条(c)款",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01142",
+    "evidence_text": "违反本规则第 91.111 条(c)款规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_5437278132",
+    "ref_type": "article",
+    "ref_text": "本章第 92.93 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01156",
+    "evidence_text": "有效期内按照本章第 92.93 条新增教员等级时",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1753410318",
+    "ref_type": "article",
+    "ref_text": "本章第 92.83 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01166",
+    "evidence_text": "按照本章第 92.83 条规定实施的相应执照和等级熟练检查。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_8931330725",
+    "ref_type": "article",
+    "ref_text": "第92.201条(c)款",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01185",
+    "evidence_text": "符合本章第 92.201 条(c)款的民用无人驾驶航空器的下列所有人或者占有人",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3582864548",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空器维修单位合格审定规则》（CCAR －145）",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01201",
+    "evidence_text": "根据《民用航空器维修单位合格审定规则》（CCAR －145）的规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9082896108",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 92.329 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01203",
+    "evidence_text": "符合按照本规则第 92.329 条确定的适用要求",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7854745967",
+    "ref_type": "article",
+    "ref_text": "第 92.323 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01204",
+    "evidence_text": "对本规则第 92.323 条要求的设计保证系统的符合性说明或者建设情况说明",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6685501846",
+    "ref_type": "article",
+    "ref_text": "本规则第 92.323 条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01213",
+    "evidence_text": "本规则第 92.323 条",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2321084858",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 92.389 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01220",
+    "evidence_text": "同时提交本规则第 92.389 条规定的质量手册",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2615635921",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 92.457 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01233",
+    "evidence_text": "民用无人驾驶航空器系统按照本规则第 92.457 条完成适航检查工作",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_4273605329",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 92.455 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01233",
+    "evidence_text": "适航证申请人在依据本规则第 92.455 条提交申请后",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_5694111506",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 92.459 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01242",
+    "evidence_text": "民用无人驾驶航空器系统具有有效适航证或者符合本规则第 92.459 条颁发适航证的条件",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6521357193",
+    "ref_type": "regulation",
+    "ref_text": "《无人驾驶航空器飞行管理暂行条例》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01246",
+    "evidence_text": "民用无人驾驶航空器飞行活动申请及审批、起飞前确认按照《无人驾驶航空器飞行管理暂行条例》有关规定实施。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_8999340807",
+    "ref_type": "regulation",
+    "ref_text": "《无人驾驶航空器飞行管理暂行条例》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01248",
+    "evidence_text": "管制空域范围和划设流程按照《无人驾驶航空器飞行管理暂行条例》中有关规定确定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7937801601",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 92.529 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01254",
+    "evidence_text": "当由民用无人驾驶航空器航行服务提供方提供时，该服务方应当满足本规则第 92.529 条的要求。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3792204468",
+    "ref_type": "regulation",
+    "ref_text": "《无人驾驶航空器飞行管理暂行条例》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01259",
+    "evidence_text": "飞行活动申请所需提交的信息按照《无人驾驶航空器飞行管理暂行条例》有关规定执行。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_4341950299",
+    "ref_type": "article",
+    "ref_text": "本规则第 92.521 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01262",
+    "evidence_text": "本规则第 92.521 条",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7609236017",
+    "ref_type": "regulation",
+    "ref_text": "本规则 C 章",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01273",
+    "evidence_text": "所有民用无人驾驶航空器系统应当按照本规则 C 章的相应要求进行实名登记和国籍登记",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9527160482",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 92.453 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01273",
+    "evidence_text": "并按照本规则第 92.453 条取得与其适航批准类别相应的适航证件",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2781432243",
+    "ref_type": "regulation",
+    "ref_text": "本规则第 92.603 条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01284",
+    "evidence_text": "实施民用无人驾驶航空器系统分布式操作的运行人，取得本规则第 92.603 条规定的运营合格证的，除开放类运行外，应当符合相应运营规范要求。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6778845036",
+    "ref_type": "regulation",
+    "ref_text": "《国际民用航空公约》附件及相关规则",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01286",
+    "evidence_text": "在公海上空，遵守《国际民用航空公约》附件及相关规则",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6116206823",
+    "ref_type": "regulation",
+    "ref_text": "本规则第92.51条(b)款第(4)项",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01309",
+    "evidence_text": "除本规则第92.51条(b)款第(4)项规定外，运行人应当确保每名飞行机组成员持有有效的相应执照和等级，并具备履行所指派岗位相应职责的能力。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2948821585",
+    "ref_type": "article",
+    "ref_text": "本规则第 92.619 条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01320",
+    "evidence_text": "本规则第 92.619 条",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_5851663553",
+    "ref_type": "law",
+    "ref_text": "《中华人民共和国民用航空法》《中华人民共和国飞行基本规则》《通用航空飞行管制条例》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01332_chunk_01333_chunk_01334_..._4",
+    "evidence_text": "依据《中华人民共和国民用航空法》《中华人民共和国飞行基本规则》《通用航空飞行管制条例》以及国家其他有关规定，制定本规则。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2381596094",
+    "ref_type": "regulation",
+    "ref_text": "本规则第二十二、二十三条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01358",
+    "evidence_text": "按照本规则第二十二、二十三条",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6933885458",
+    "ref_type": "regulation",
+    "ref_text": "《中华人民共和国搜寻援救民用航空器规定》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01417",
+    "evidence_text": "搜寻援救工作的组织与实施按照《中华人民共和国搜寻援救民用航空器规定》执行。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6163105813",
+    "ref_type": "article",
+    "ref_text": "本规则第七章、第八章",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01450",
+    "evidence_text": "放行、起飞、着陆及航路的管制许可的具体内容见本规则第七章、第八章。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2166041312",
+    "ref_type": "regulation",
+    "ref_text": "《民用航空飞行动态固定电报格式》 （MH/T4007）",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01466",
+    "evidence_text": "管制单位应当按照《民用航空飞行动态固定电报格式》 （MH/T4007）和相关规定拍发飞行动态电报。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3830697620",
+    "ref_type": "annex",
+    "ref_text": "本规则附件 11 《指定航空器调整速度时使用的最低调整速度标准》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01501",
+    "evidence_text": "指示航空器调整速度时使用的最低调整速度标准见本规则附件 11 《指定航空器调整速度时使用的最低调整速度标准》",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_5367675029",
+    "ref_type": "annex",
+    "ref_text": "本规则附件 7 《航空器驾驶员应当进行的请示和报告》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01506_chunk_01507",
+    "evidence_text": "航空器驾驶员应当按照本规则附件 7 《航空器驾驶员应当进行的请示和报告》，在强制报告点和管制员指定的地点或者时刻，向管制单位报告。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7457515737",
+    "ref_type": "regulation",
+    "ref_text": "《通用航空飞行管制条例》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01522_chunk_01523",
+    "evidence_text": "从事通用航空飞行活动的单位或者个人应当遵守《通用航空飞行管制条例》，按规定申请划设和使用空域，遵守飞行活动管理的规定和空中交通管制的要求，保证飞行安全。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6416509907",
+    "ref_type": "law",
+    "ref_text": "《中华人民共和国飞行基本规则》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01527_chunk_01528_chunk_01529",
+    "evidence_text": "军民合用机场的管制按照《中华人民共和国飞行基本规则》的规定和双方的协议执行。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6004314872",
+    "ref_type": "annex",
+    "ref_text": "附件 10 图 1",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01557",
+    "evidence_text": "当通过位置报告，确信两架航空器位于不同地理位置上空，则相关航空器之间存在横向间隔（参照附件 10 图 1）。地理位置可以通过目视或者参考导航设备确定。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0737017755",
+    "ref_type": "annex",
+    "ref_text": "附件 10 图 7",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01562",
+    "evidence_text": "参照附件 10 图 7",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7455815101",
+    "ref_type": "annex",
+    "ref_text": "附件 10 图 8",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01562",
+    "evidence_text": "参照附件 10 图 8",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9252036957",
+    "ref_type": "annex",
+    "ref_text": "附件 10 图 15",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01565",
+    "evidence_text": "参照附件 10 图 15",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9673309390",
+    "ref_type": "annex",
+    "ref_text": "附件 10 图 22",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01569",
+    "evidence_text": "参照附件 10 图 22",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2500424835",
+    "ref_type": "annex",
+    "ref_text": "附件 10 图 23",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01570",
+    "evidence_text": "参照附件 10 图 23",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1835373287",
+    "ref_type": "annex",
+    "ref_text": "附件 10 图 24",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01570",
+    "evidence_text": "参照附件 10 图 24",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7158092178",
+    "ref_type": "annex",
+    "ref_text": "附件 10 图 25",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01570",
+    "evidence_text": "参照附件 10 图 25",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_1235274570",
+    "ref_type": "annex",
+    "ref_text": "附件 10 图 29",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01572",
+    "evidence_text": "（参照附件 10 图 29）",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3732241593",
+    "ref_type": "annex",
+    "ref_text": "附件 10 图 30",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01572",
+    "evidence_text": "（参照附件 10 图 30）",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9421474308",
+    "ref_type": "annex",
+    "ref_text": "附件 10 图 34",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01584",
+    "evidence_text": "参照附件 10 图 34",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3885285843",
+    "ref_type": "annex",
+    "ref_text": "附件 10 图 35、36",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01588",
+    "evidence_text": "参照附件 10 图 35、36",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6959900250",
+    "ref_type": "regulation",
+    "ref_text": "本规则第二十三条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01592",
+    "evidence_text": "应当按照本规则第二十三条的规定申请运行变更",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7345301563",
+    "ref_type": "annex",
+    "ref_text": "附件 5《航空器驾驶员收到管制员信号后的确认信号》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01604_chunk_01605_chunk_01606_..._4",
+    "evidence_text": "航空器驾驶员收到管制员发给的灯光或者信号弹信号后，应当给予回答，回答的信号按照附件 5《航空器驾驶员收到管制员信号后的确认信号》的规定执行。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3084979955",
+    "ref_type": "annex",
+    "ref_text": "附件 6《机场进近和跑道灯光系统强度》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01610_chunk_01611_chunk_01612",
+    "evidence_text": "机场进近和跑道灯光系统的强度配置见附件 6《机场进近和跑道灯光系统强度》的规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_8828144989",
+    "ref_type": "annex",
+    "ref_text": "《航空器驾驶员报告的跑道刹车效应与跑道状况代码对照表》见附件 14",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01623",
+    "evidence_text": "《航空器驾驶员报告的跑道刹车效应与跑道状况代码对照表》见附件 14",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_9539133896",
+    "ref_type": "annex",
+    "ref_text": "附件 13《直升机地面和空中滑行间隔》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01635",
+    "evidence_text": "直升机滑行涉及的有关间隔见附件 13《直升机地面和空中滑行间隔》。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3826568231",
+    "ref_type": "regulation",
+    "ref_text": "本规则第二十三条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01664_chunk_01665",
+    "evidence_text": "本规则第二十三条",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_5000927151",
+    "ref_type": "regulation",
+    "ref_text": "《平行跑道同时仪表运行管理规定》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01664_chunk_01665",
+    "evidence_text": "《平行跑道同时仪表运行管理规定》",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_4879238133",
+    "ref_type": "article",
+    "ref_text": "本规则第二十三条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01670_chunk_01671_chunk_01672",
+    "evidence_text": "管制单位实施仪表着陆系统Ⅱ类运行应当按照本规则第二十三条的规定申请运行变更。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_8159584678",
+    "ref_type": "regulation",
+    "ref_text": "本规则第二十三条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01707_chunk_01708_chunk_01709_..._4",
+    "evidence_text": "管制单位实施雷达管制应当按照本规则第二十三条的规定申请运行变更。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3269124959",
+    "ref_type": "regulation",
+    "ref_text": "相关规定",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01749",
+    "evidence_text": "最低雷达引导高度按照相关规定确定。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_6983425277",
+    "ref_type": "regulation",
+    "ref_text": "《平行跑道同时仪表运行管理规定》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01761",
+    "evidence_text": "平行跑道仪表运行的雷达引导应当遵守《平行跑道同时仪表运行管理规定》的要求。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_8755795008",
+    "ref_type": "regulation",
+    "ref_text": "本规则第二十三条",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01773_chunk_01776",
+    "evidence_text": "管制单位实施监视雷达进近和精密雷达进近应当按照本规则第二十三条的规定申请运行变更。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_8639157633",
+    "ref_type": "regulation",
+    "ref_text": "本规则第二十三条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01879",
+    "evidence_text": "应当按照本规则第二十三条的规定申请运行变更",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3006136777",
+    "ref_type": "regulation",
+    "ref_text": "国家和民航相关规定、标准",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01891",
+    "evidence_text": "空中交通管制事故和事故征候按照国家和民航相关规定、标准确定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3145832680",
+    "ref_type": "annex",
+    "ref_text": "本规则附件 9《空中交通事件报告表》",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01896",
+    "evidence_text": "空中交通事件的报告按照本规则附件 9《空中交通事件报告表》的格式填写",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_0783070663",
+    "ref_type": "regulation",
+    "ref_text": "《通用航空飞行管制条例》",
+    "confidence": 0.9,
+    "chunk_id": "merged_chunk_01962",
+    "evidence_text": "施放无人驾驶自由气球应当按照《通用航空飞行管制条例》及相关规定经国家有关主管部门批准和管制单位许可。",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_3240403435",
+    "ref_type": "article",
+    "ref_text": "第二十二条",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01982",
+    "evidence_text": "违反第二十二条规定",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_2362046470",
+    "ref_type": "regulation",
+    "ref_text": "本规则",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01984",
+    "evidence_text": "本规则",
+    "type": "Reference"
+  },
+  {
+    "id": "ref_7537807550",
+    "ref_type": "law",
+    "ref_text": "法律、法规、规章相关规定",
+    "confidence": 0.9,
+    "chunk_id": "chunk_01984",
+    "evidence_text": "法律、法规、规章相关规定",
+    "type": "Reference"
+  }
+]

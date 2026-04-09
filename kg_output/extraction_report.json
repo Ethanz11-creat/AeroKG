@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-04-05T02:49:22.303185",
+  "input_stats": {
+    "total_chunks": 1987,
+    "filtered_chunks": 108,
+    "llm_input_chunks": 1268,
+    "llm_success_chunks": 1265,
+    "llm_failed_chunks": 3,
+    "llm_skipped_chunks": 0,
+    "suspicious_chunks": 0
+  },
+  "output_summary": {
+    "documents": 16,
+    "structural_units": 1875,
+    "terms": 193,
+    "definitions": 193,
+    "rules": 2945,
+    "conditions": 1597,
+    "constraints": 965,
+    "references": 159,
+    "total_edges": 7927,
+    "total_nodes": 7943
+  },
+  "extraction_counts": {
+    "extracted_terms": 193,
+    "extracted_definitions": 193,
+    "extracted_rules": 2945,
+    "extracted_conditions": 1597,
+    "extracted_constraints": 965,
+    "extracted_references": 159
+  },
+  "performance_metrics": {
+    "avg_latency_ms": 23995.88,
+    "total_latency_ms": 30354786.86,
+    "estimated_token_usage": 0,
+    "failed_case_count": 3
+  },
+  "schema_info": {
+    "node_types": [
+      "Document",
+      "StructuralUnit",
+      "Term",
+      "Definition",
+      "Rule",
+      "Condition",
+      "Constraint",
+      "Reference"
+    ],
+    "edge_types": [
+      "CONTAINS",
+      "DEFINES",
+      "HAS_RULE",
+      "APPLIES_TO",
+      "HAS_CONDITION",
+      "HAS_CONSTRAINT",
+      "REFERENCES",
+      "SAME_AS"
+    ]
+  },
+  "quality_metrics": {
+    "avg_rule_confidence": 0.875,
+    "avg_definition_confidence": 0.908,
+    "rules_with_subject": 2767,
+    "rules_with_object": 2196
+  },
+  "architecture": {
+    "mode": "LLM-first",
+    "llm_model": "DeepSeek-V3.2",
+    "rules_used_for": [
+      "cleaning",
+      "filtering",
+      "validation",
+      "normalization"
+    ],
+    "rules_not_used_for": [
+      "subject/action/object extraction",
+      "rule triple generation"
+    ]
+  },
+  "limitations_and_next_steps": [
+    "当前版本完全依赖 LLM 抽取，抽取质量取决于模型能力",
+    "超长文本已切分为子块分别抽取，但可能丢失跨句语义",
+    "证据文本校验仅检查是否存在于原文，未做精确匹配",
+    "建议下一步：增加人工审核环节",
+    "建议下一步：支持增量抽取和更新",
+    "建议下一步：接入 Neo4j 图数据库"
+  ]
+}

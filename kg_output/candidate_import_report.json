@@ -1,0 +1,33 @@
+{
+  "import_batch_id": "9662ad9c",
+  "graph_stage": "candidate",
+  "source_run": "llm_extraction",
+  "imported_at": "2026-04-07T18:19:57.734426",
+  "input_directory": "kg_output",
+  "summary": {
+    "nodes_created": 7943,
+    "nodes_failed": 0,
+    "relationships_created": 7927,
+    "relationships_failed": 0,
+    "node_types": {
+      "Document": 16,
+      "StructuralUnit": 1875,
+      "Term": 193,
+      "Definition": 193,
+      "Rule": 2945,
+      "Condition": 1597,
+      "Constraint": 965,
+      "Reference": 159
+    },
+    "relationship_types": {
+      "CONTAINS": 1875,
+      "HAS_RULE": 3138,
+      "HAS_CONDITION": 1597,
+      "REFERENCES": 159,
+      "DEFINES": 193,
+      "HAS_CONSTRAINT": 965
+    },
+    "missing_nodes_count": 0
+  },
+  "errors": []
+}
